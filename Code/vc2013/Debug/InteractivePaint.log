@@ -1,0 +1,11 @@
+﻿cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  InteractivePaintApp.cpp
+  Unknown compiler version - please run the configure tests and report the results
+d:\justin\projects\interactivepaint\include\resources.h(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\justin\projects\interactivepaint\include\interactivepaint.h(50): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+d:\justin\projects\interactivepaint\src\interactivepaintapp.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  MainView.cpp
+  InteractivePaint.vcxproj -> D:\Justin\Projects\InteractivePaint\vc2013\Debug\InteractivePaint.exe
+  InteractivePaint.vcxproj -> D:\Justin\Projects\InteractivePaint\vc2013\Debug\InteractivePaint.pdb (Full PDB)
