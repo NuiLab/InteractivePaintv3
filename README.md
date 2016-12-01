@@ -1,3 +1,5 @@
+(http://img00.deviantart.net/d0ab/i/2016/335/8/5/interactive_paint_logo_by_alaingalvan-daq9db8.png, "Interactive Paint")
+
 Interactive Paint is a showcase of what can be done using input devices such as the Intel RealSense, Leap Motion, Kinect and Multi-touch Display.
 It also serves as a framework for future projects involving these input devices.
 
