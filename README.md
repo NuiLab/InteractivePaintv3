@@ -10,11 +10,11 @@ This application can also be controlled using the various gestures supported by 
 Input Devices
 
 Multi-Touch Display Guide
-
+```
 Drawing -
 	Drawing is performed by touching the screen and dragging your fingers
     around the screen. Up to 10 fingers are supported at the same time.
-
+```
 
 Kinect Guide
 ```
