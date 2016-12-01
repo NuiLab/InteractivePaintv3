@@ -8,28 +8,38 @@ This application can also be controlled using the various gestures supported by 
 Multi-Touch Display Guide
 
 	Drawing -
-		Drawing is performed by touching the screen and dragging your fingers around the screen. Up to 10 fingers are supported at the same time.
+		Drawing is performed by touching the screen and dragging your fingers
+        around the screen. Up to 10 fingers are supported at the same time.
 
 
 Kinect Guide
 
-    The Kinect gave us multiple issues as only one of our Windows computers was able to recognize the Kinect and it didn't recognize it with good consistency. Not sure if it is an issue with my Kinect or the Microsoft SDK.
+    The Kinect gave us multiple issues as only one of our Windows computers was
+    able to recognize the Kinect and it didn't recognize it with good
+    consistency. Not sure if it is an issue with my Kinect or the Microsoft SDK.
 	Drawing -
-		Drawing is performed by lifting your hand up in front of the Kinect and moving it around to draw.
+		Drawing is performed by lifting your hand up in front of the Kinect
+        and moving it around to draw.
 
 
 Leap Motion Guide
 
 	Drawing -
-		Drawing is performed by lifting your hand over the Leap Motion and moving it around to draw.
+		Drawing is performed by lifting your hand over the Leap Motion and
+        moving it around to draw.
 	Gesture Recognition -
-		The Leap Motion can recognized different hand gestures. While the component that handles input from the Leap Motion can recognize all different gestures only the swipe gesture is supported.
-        Swipe your hand over the Leap Motion to change your currently selected tool.
+		The Leap Motion can recognized different hand gestures. While the
+        component that handles input from the Leap Motion can recognize all
+        different gestures only the swipe gesture is supported. Swipe your
+        hand over the Leap Motion to change your currently selected tool.
 
 
 Intel Real Sense Guide
 
 	Drawing -
-		Drawing is performed by lifting your hand up in front of the RealSense and moving it around to draw.
+		Drawing is performed by lifting your hand up in front of the RealSense
+        and moving it around to draw.
 	Facial Expression Recognition -
-		The RealSense provides facial expression recognition and our component that handles input from the RealSense can recognize facial expressions but currently our application does not use that.
+		The RealSense provides facial expression recognition and our component
+        that handles input from the RealSense can recognize facial expressions
+        but currently our application does not use that.
